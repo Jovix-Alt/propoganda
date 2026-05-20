@@ -139,7 +139,7 @@ const observer =
 hiddenElements.forEach((el) =>
     observer.observe(el));
 const aboutMessage =
-    "I build projects involving programming, CAD, fabrication and engineering concepts.";
+    "I do coding.";
 
 const aboutElement =
     document.getElementById("about-text");
