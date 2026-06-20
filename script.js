@@ -161,7 +161,7 @@ function typeAbout() {
 
 typeAbout();
 const qualificationMessage =
-    "First Year BTech Computer Science student exploring software and hardware systems.";
+    "C,Java,Python\nSolidworks,Ansys";
 
 const qualificationElement =
     document.getElementById("qualification-text");
