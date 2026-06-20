@@ -101,7 +101,7 @@ updateDateTime();
 setInterval(updateDateTime, 1000);
 const profileImg = document.getElementById("profile-img");
 const text =
-    "Subtitle Goes Here";
+    "Computer + Lathes";
 
 const typingElement =
     document.getElementById("typing-text");
