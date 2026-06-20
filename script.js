@@ -161,7 +161,7 @@ function typeAbout() {
 
 typeAbout();
 const qualificationMessage =
-    "C,Java,Python\nSolidworks,Ansys";
+    "C,Java,Python,Solidworks,Ansys";
 
 const qualificationElement =
     document.getElementById("qualification-text");
